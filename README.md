@@ -53,4 +53,4 @@ python clean_data.py
 ```
 
 ## Author
-[Your Name] — Data Analytics Intern Project 1
+Md. Faisal Siddiqui— Data Analytics Intern Project 1
